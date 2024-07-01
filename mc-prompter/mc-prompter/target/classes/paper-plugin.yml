@@ -1,0 +1,4 @@
+name: mc-prompter
+version: '1.0-SNAPSHOT'
+main: com.mc.newprompter.prompter.Mc_prompter
+api-version: '1.20'
