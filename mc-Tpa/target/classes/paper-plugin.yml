@@ -1,0 +1,13 @@
+name: TpaPlugin
+main: com.mc.newprompter.tpa.TpaPlugin
+version: 1.0
+api-version: 1.20
+description: A simple TPA plugin with clickable accept/deny buttons.
+commands:
+  tpa:
+    description: 请求传送到另一个玩家
+  tpaaccept:
+    description: 接受传送请求
+  tpadeny:
+    description: 拒绝传送请求
+authoers: [mengnankk]
