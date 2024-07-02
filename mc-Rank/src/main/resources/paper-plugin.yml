@@ -1,0 +1,16 @@
+name: RankTitlesPlugin
+main: com.mc.newprompter.ranktitles.RankTitlesPlugin
+version: 1.0
+api-version: 1.20
+description: A simple rank titles plugin.
+permissions:
+  rank.admin:
+    description: 允许玩家拥有管理员称号
+    default: op
+  rank.moderator:
+    description: 允许玩家拥有版主称号
+    default: op
+  rank.vip:
+    description: 允许玩家拥有VIP称号
+    default: true
+authors: [mengnankk]
