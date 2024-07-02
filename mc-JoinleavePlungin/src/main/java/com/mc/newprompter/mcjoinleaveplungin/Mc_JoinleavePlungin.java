@@ -7,7 +7,7 @@ import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class JoinLeavePlugin extends JavaPlugin implements Listener {
+public final class Mc_JoinleavePlungin extends JavaPlugin implements Listener {
     @Override
     public void onEnable() {
         this.getLogger().info("JoinLeave插件已启用");
