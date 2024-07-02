@@ -1,0 +1,10 @@
+name: Backhome
+main: com.mc.newprompter.appletest.Backhome
+version: 1.0
+api-version: 1.20
+description: A simple plugin to set and return home.
+commands:
+  sethome:
+    description: 设置家
+  home:
+    description: 传送回家
