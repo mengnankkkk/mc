@@ -2,3 +2,4 @@ name: mc-prompter
 version: '${project.version}'
 main: com.mc.newprompter.prompter.Mc_prompter
 api-version: '1.20'
+authors: [mengnankk]

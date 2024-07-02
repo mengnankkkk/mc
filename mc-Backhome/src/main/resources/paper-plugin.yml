@@ -8,3 +8,4 @@ commands:
     description: 设置家
   home:
     description: 传送回家
+authors: [mengnankk]
