@@ -1,6 +1,6 @@
 name: mc-JoinleavePlungin
 version: '1.0-SNAPSHOT'
 main: com.mc.newprompter.mcjoinleaveplungin.Mc_JoinleavePlungin
-api-version: '1.20'
+api-version: 1.20
 description: A simple plugin to beautify join and leave messages.
-authores: [mengnankk]
+authors: [mengnankk]  
