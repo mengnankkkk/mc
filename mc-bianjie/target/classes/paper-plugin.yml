@@ -1,0 +1,4 @@
+name: mc-fumo
+version: '1.0-SNAPSHOT'
+main: org.paper.mcfumo.Mc_fumo
+api-version: '1.20'
