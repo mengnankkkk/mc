@@ -10,7 +10,7 @@ permissions:
   rank.moderator:
     description: 允许玩家拥有版主称号
     default: op
-  rank.vip:
+  rank.vip
     description: 允许玩家拥有VIP称号
     default: true
 authors: [mengnankk]

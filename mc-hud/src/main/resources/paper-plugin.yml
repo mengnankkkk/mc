@@ -1,0 +1,6 @@
+name: mc-hud
+version: '${project.version}'
+main: org.mc.plu.mchud.Mc_hud
+api-version: '1.20'
+authors: [mengnankk]
+description: A plugin to display coordinates, FPS, nether coordinates, and inventory.
